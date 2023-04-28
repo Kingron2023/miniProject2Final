@@ -23,6 +23,9 @@
     border: 1px solid red;
 }
 
+.nav{
+  position: fixed;
+}
 
 /* CATEGORIES CSS */
 
